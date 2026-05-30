@@ -69,9 +69,10 @@ The Banking Management System is a Java-based application developed using Java S
 * User selected Balance Enquiry again.
 * System displayed updated balance as ₹500.
 
-### Sample Output
+###  Output
+<img width="735" height="1031" alt="image" src="https://github.com/user-attachments/assets/c55a9769-89fc-4ec4-b7b6-3b1c185bfbce" />
 
-```text
+
 ===== BANKING MANAGEMENT SYSTEM =====
 
 1. Deposit
@@ -94,12 +95,8 @@ Enter your choice: 3
 Current Balance = 500.0
 ```
 
-
-
-
 ### GitHub Repository
-
-
+<img width="937" height="1043" alt="image" src="https://github.com/user-attachments/assets/b1568c26-43a9-4ee4-a19d-babb91977c8b" />
 ## Author
 
 Anthati Vaani
