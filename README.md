@@ -72,31 +72,8 @@ The Banking Management System is a Java-based application developed using Java S
 ###  Output
 <img width="735" height="1031" alt="image" src="https://github.com/user-attachments/assets/c55a9769-89fc-4ec4-b7b6-3b1c185bfbce" />
 
-
-===== BANKING MANAGEMENT SYSTEM =====
-
-1. Deposit
-2. Withdraw
-3. Balance Enquiry
-4. Exit
-
-Enter your choice: 1
-Enter amount to deposit: 1000
-Amount Deposited Successfully
-
-Enter your choice: 3
-Current Balance = 1000.0
-
-Enter your choice: 2
-Enter amount to withdraw: 500
-Amount Withdrawn Successfully
-
-Enter your choice: 3
-Current Balance = 500.0
-```
-
 ### GitHub Repository
-<img width="937" height="1043" alt="image" src="https://github.com/user-attachments/assets/b1568c26-43a9-4ee4-a19d-babb91977c8b" />
-## Author
+<img width="958" height="1038" alt="image" src="https://github.com/user-attachments/assets/27f770c0-7c9a-4365-a36b-efabeabd896b" />
 
+## Author
 Anthati Vaani
